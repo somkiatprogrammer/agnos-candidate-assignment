@@ -1,6 +1,6 @@
 # Agnos Candidate Assignment
 
-This project is an Agnos Candidate Assignment by using the Gin web framework in Go with NGINX, and PostgreSQL. It provides a minimal example to get me started with tracing HTTP requests in a Gin application. Unfortunately, I do not have enough time to develop the project with Docker yet. However, it works ok.
+This project is an Agnos Candidate Assignment by using the Gin web framework in Go with NGINX, and PostgreSQL. It provides a minimal example to get me started with tracing HTTP requests in a Gin application. Unfortunately, I do not have much time to develop the project with Docker yet. However, it works ok.
 
 ## Prerequisites
 
